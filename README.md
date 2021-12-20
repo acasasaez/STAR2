@@ -8,6 +8,8 @@ El reto consiste en programar una función que dibuje estrellas como la que apar
 Para poder presentarlo se ha creado un repositorio en GitHub, cuya direccioón es:https://github.com/acasasaez/STAR2.git
 
 El diagrama de flujo que representa mi código es el siguiente:
+![figma de la estrella](https://user-images.githubusercontent.com/91721826/146793232-8a50b53e-a5f5-410b-b3ab-df9c562fe6f1.jpg)
+
 
 *NOTA: Tener en cuenta que a la hora de crear el código: se ha considerado que no existen estrellas con menos de 5 puntas, solo funciona para los casos en los que n =2a+1, siendo a un número natural, (pues en otros casos la fórmula que determina el ángulo no es válida).
 
