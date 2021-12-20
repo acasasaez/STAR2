@@ -8,3 +8,4 @@ while c != a:
     turtle.right (180-(180/a))
     if c == a +1:
         break
+turtle.end_fill()
